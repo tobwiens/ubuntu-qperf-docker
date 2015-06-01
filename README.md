@@ -1,4 +1,4 @@
-# docker-ubuntu-qperf
+# ubuntu-qperf-docker
 Docker container with qperf installed on ubuntu.
 
 ## How to run
